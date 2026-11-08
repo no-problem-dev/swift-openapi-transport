@@ -52,7 +52,7 @@ SSE のような長く続く本文は生成クライアントを通さない。�
 
 ## ドキュメント
 
-API リファレンスは [GitHub Pages](https://no-problem-dev.github.io/swift-openapi-transport/documentation/openapihttptransport/) にある。
+API リファレンスは DocC カタログ [`Sources/OpenAPIHTTPTransport/Documentation.docc`](Sources/OpenAPIHTTPTransport/Documentation.docc) にある。
 
 ## インストール
 
