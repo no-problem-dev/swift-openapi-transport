@@ -52,7 +52,7 @@ Server-sent events and other long-lived bodies do not go through the generated c
 
 ## Documentation
 
-The API reference lives on [GitHub Pages](https://no-problem-dev.github.io/swift-openapi-transport/documentation/openapihttptransport/).
+The API reference lives in the DocC catalog [`Sources/OpenAPIHTTPTransport/Documentation.docc`](Sources/OpenAPIHTTPTransport/Documentation.docc).
 
 ## Installation
 
